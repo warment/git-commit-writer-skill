@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Writer"
+  short_description: "Пишет commit-сообщения по стандарту"
+  default_prompt: "Use $git-commit-writer to draft a Conventional Commits message in Russian from my staged changes."
