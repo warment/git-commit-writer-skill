@@ -9,7 +9,7 @@ Write precise, informative commit messages by analyzing staged changes and using
 
 Use standard commit types such as `feat`, `fix`, and `docs`, but write the short description and body in Russian by default unless the user clearly asks for another language.
 
-Original source: user-provided archive `git-commit-writer_v1.0.zip`. This public copy keeps the same architecture and adapts the output style for Russian-by-default commit messages.
+Original source: https://www.agensi.io/. This public copy keeps the same architecture and adapts the output style for Russian-by-default commit messages.
 
 ## Workflow
 

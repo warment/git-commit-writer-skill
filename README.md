@@ -4,7 +4,7 @@ Public copy of the skill for writing commit messages from staged Git changes.
 
 ## Source
 
-This repository is based on the user-provided archive `git-commit-writer_v1.0.zip`.
+This repository is based on the original Agensi source: https://www.agensi.io/.
 The architecture is preserved, and the skill is adapted to write the message body in Russian by default.
 
 ## Contents
